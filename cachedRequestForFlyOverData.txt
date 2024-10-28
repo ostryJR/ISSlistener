@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<!-- base=https://www.amsat.org/amsat-new/ -->
+<!-- root=/var/www/www.amsat.org/amsat-new -->
+
+<!-- browser: python-requests/2.31.0 -->
+<html>
+
+		<head>
+				<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+				<meta name="client" content="The Amateur Radio Satellite Corporation">
+				<meta name="keywords" content="satellite,satellites,amateur,radio,amsat,oscar,amsat-nl,space,spacecraft,tracking,software,hardware,catalog,publications,technology,communications,packet,telemetry,TLM,ssb,cw,fm,repeater,psk">
+				<meta name="description" content="AMSAT is a worldwide group of Amateur Radio Operators who share an active interest in building, launching and then communicating with each other through non-commercial Amateur Radio satellites. AMSAT designs, constructs and successfully launches communications satellites into Earth orbit.">
+
+				<title>AMSAT - AMSAT Online Satellite Pass Predictions</title>
+				<link href="https://www.amsat.org/amsat-new/amsat.css" rel="stylesheet" media="screen">
+				<link href="https://www.amsat.org/amsat-new/amsat_print.css" rel="stylesheet" media="print">
+				<link rel="SHORTCUT ICON" href="https://www.amsat.org/favicon.ico">
+				<script type="text/javascript" src="https://www.amsat.org/amsat-new/amsat.js"></script>
+						</head>
+
+		<body bgcolor="#E0E0E0" onload="checkClient();" >
+
+		<div align="center">
+
+<table class="box" width="800" height="130" border="1" cellspacing="0" cellpadding="4" >
+
+		<tr onmouseover="into(this); " onclick="document.location.href='main_page_redirect.php'"
+										<td class="bottomborder" align="right" valign="bottom" background="https://www.amsat.org/amsat-new/fahnen/1.jpg"><font color="white"><b>
+
+
+850 Sligo Ave. Suite 600<br>
+Silver Spring, MD 20910<br>1-888-322-6728
+</b></font>
+</td>
+</tr>
+</table>
+
+<table class="box" width="800" border="1" cellspacing="0" cellpadding="0">
+<tr>
+
+<td valign="bottom" bgcolor="floralwhite" class="titlestyle">
+https://www.amsat.org/amsat-new/fahnen/1.jpg&nbsp;AMSAT Online Satellite Pass Predictions</td>
+
+						</tr>
+						</table>
+<table class="box" width="800" border="1" cellspacing="0" cellpadding="0">
+		<tr>
+				<td bgcolor="#dcdcdc">
+
+
+<!-- return URL not specified, using ./ -->
+
+
+						<table bgcolor="white" width="100%" border="1" cellspacing="0" cellpadding="4">
+								<tr valign="bottom">
+										<td align="center" valign="bottom" nowrap width="10%" ><a href="/">Launch Pad</a></td>
+<td align="center" valign="bottom" nowrap width="10%" ><a href="./">Return</a></td>										</tr>
+						</table>
+
+				</td>
+		</tr>
+
+</table>
+
+
+
+				<table class="sides" width="800" border="1" cellspacing="6" cellpadding="0">
+						<tr>
+								<td>
+
+
+<div align="left">
+
+<!-- do not edit anything above this line except the title line -->
+
+<table border="0" cellspacing="2" cellpadding="10" align="center">
+	<tr>
+		<td>
+						<table bgcolor="gray" cellspacing="1" cellpadding="3">
+				<tr bgcolor="#f0f8ff">
+					<td colspan="9" align="center" nowrap>
+					<span class="h4span">	AMSAT Online Satellite Pass Predictions  - ISS</span><br>
+					<a href="satloc.php?lang=en&satellite=ISS">View the current location of ISS</a>					</td>
+				</tr>
+				<tr bgcolor="LightYellow">
+					<th nowrap class="small">Date (UTC)</th><th nowrap class="small">AOS (UTC)</th><th nowrap class="small">Duration</th><th nowrap class="small">AOS<br>Azimuth</th><th nowrap class="small">Maximum<br>Elevation</th><th nowrap class="small">Max El <br>Azimuth</th><th nowrap class="small">LOS<br>Azimuth</th><th nowrap class="small">LOS (UTC)</th>				</tr>
+				<tr bgcolor="white"><td class="small" nowrap align="center">29 Oct 24</td><td class="small" nowrap align="center">00:16:26</td><td class="small" nowrap align="center">00:08:31</td><td class="small" nowrap align="center">193</td><td class="small" nowrap align="center">10</td><td class="small" nowrap align="center">133</td><td class="small" nowrap align="center">88</td><td class="small" nowrap align="center">00:24:57</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">29 Oct 24</td><td class="small" nowrap align="center">01:51:27</td><td class="small" nowrap align="center">00:10:21</td><td class="small" nowrap align="center">233</td><td class="small" nowrap align="center">29</td><td class="small" nowrap align="center">141</td><td class="small" nowrap align="center">86</td><td class="small" nowrap align="center">02:01:48</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">29 Oct 24</td><td class="small" nowrap align="center">03:27:39</td><td class="small" nowrap align="center">00:10:45</td><td class="small" nowrap align="center">260</td><td class="small" nowrap align="center">47</td><td class="small" nowrap align="center">166</td><td class="small" nowrap align="center">99</td><td class="small" nowrap align="center">03:38:24</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">29 Oct 24</td><td class="small" nowrap align="center">05:04:08</td><td class="small" nowrap align="center">00:10:23</td><td class="small" nowrap align="center">274</td><td class="small" nowrap align="center">30</td><td class="small" nowrap align="center">181</td><td class="small" nowrap align="center">125</td><td class="small" nowrap align="center">05:14:31</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">29 Oct 24</td><td class="small" nowrap align="center">06:40:57</td><td class="small" nowrap align="center">00:08:43</td><td class="small" nowrap align="center">272</td><td class="small" nowrap align="center">11</td><td class="small" nowrap align="center">212</td><td class="small" nowrap align="center">163</td><td class="small" nowrap align="center">06:49:40</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">29 Oct 24</td><td class="small" nowrap align="center">23:28:18</td><td class="small" nowrap align="center">00:07:23</td><td class="small" nowrap align="center">180</td><td class="small" nowrap align="center">6</td><td class="small" nowrap align="center">138</td><td class="small" nowrap align="center">92</td><td class="small" nowrap align="center">23:35:41</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">30 Oct 24</td><td class="small" nowrap align="center">01:02:43</td><td class="small" nowrap align="center">00:10:06</td><td class="small" nowrap align="center">224</td><td class="small" nowrap align="center">23</td><td class="small" nowrap align="center">167</td><td class="small" nowrap align="center">85</td><td class="small" nowrap align="center">01:12:49</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">30 Oct 24</td><td class="small" nowrap align="center">02:38:43</td><td class="small" nowrap align="center">00:10:38</td><td class="small" nowrap align="center">254</td><td class="small" nowrap align="center">45</td><td class="small" nowrap align="center">160</td><td class="small" nowrap align="center">94</td><td class="small" nowrap align="center">02:49:21</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">30 Oct 24</td><td class="small" nowrap align="center">04:15:10</td><td class="small" nowrap align="center">00:10:31</td><td class="small" nowrap align="center">271</td><td class="small" nowrap align="center">37</td><td class="small" nowrap align="center">178</td><td class="small" nowrap align="center">117</td><td class="small" nowrap align="center">04:25:41</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">30 Oct 24</td><td class="small" nowrap align="center">05:51:49</td><td class="small" nowrap align="center">00:09:25</td><td class="small" nowrap align="center">274</td><td class="small" nowrap align="center">16</td><td class="small" nowrap align="center">215</td><td class="small" nowrap align="center">152</td><td class="small" nowrap align="center">06:01:14</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">30 Oct 24</td><td class="small" nowrap align="center">07:30:07</td><td class="small" nowrap align="center">00:03:31</td><td class="small" nowrap align="center">252</td><td class="small" nowrap align="center">1</td><td class="small" nowrap align="center">226</td><td class="small" nowrap align="center">213</td><td class="small" nowrap align="center">07:33:38</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">30 Oct 24</td><td class="small" nowrap align="center">22:40:30</td><td class="small" nowrap align="center">00:05:33</td><td class="small" nowrap align="center">163</td><td class="small" nowrap align="center">3</td><td class="small" nowrap align="center">137</td><td class="small" nowrap align="center">100</td><td class="small" nowrap align="center">22:46:03</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">31 Oct 24</td><td class="small" nowrap align="center">00:14:01</td><td class="small" nowrap align="center">00:09:43</td><td class="small" nowrap align="center">214</td><td class="small" nowrap align="center">18</td><td class="small" nowrap align="center">154</td><td class="small" nowrap align="center">85</td><td class="small" nowrap align="center">00:23:44</td></tr><tr bgcolor="gainsboro"><td class="small" nowrap align="center">31 Oct 24</td><td class="small" nowrap align="center">01:49:45</td><td class="small" nowrap align="center">00:10:35</td><td class="small" nowrap align="center">247</td><td class="small" nowrap align="center">40</td><td class="small" nowrap align="center">154</td><td class="small" nowrap align="center">90</td><td class="small" nowrap align="center">02:00:20</td></tr><tr bgcolor="white"><td class="small" nowrap align="center">31 Oct 24</td><td class="small" nowrap align="center">03:26:08</td><td class="small" nowrap align="center">00:10:36</td><td class="small" nowrap align="center">268</td><td class="small" nowrap align="center">43</td><td class="small" nowrap align="center">174</td><td class="small" nowrap align="center">109</td><td class="small" nowrap align="center">03:36:44</td></tr>				
+			</table>
+			
+						
+		</td>
+	</tr>
+</table>
+
+	<br><p align="center"><span class="h4span">This prediction should not be used for precise scientific analysis</span><br>Use the form below to request more pass predictions</p>
+
+
+
+
+
+<script type="text/javascript">
+	function checkLatLon(oF)
+	{	
+		var inputBad=false;
+		
+		var lat=oF.lat.value;
+		var lng=oF.lng.value;
+		var loc=oF.loc.value;
+		if(oF.ele.value=="")
+			oF.ele.value=0;
+		var ele=parseInt(oF.ele.value);
+		
+		if(lat=="")
+			lat=0;
+		if(lng=="")
+			lng=0;
+			
+		if(isNaN(lat))
+			lat=0;
+		if(isNaN(lng))
+			lng=0;
+
+		if(loc != "" && parseFloat(lat)==0 || parseFloat(lng) == 0)
+		{
+			loc2deg(oF);
+			alert("No valid latitude and longitude detected - attempting to compute from gridsquare");
+		}	
+
+		var lat=oF.lat.value;
+		var lng=oF.lng.value;
+		var loc=oF.loc.value;
+		
+		if(isNaN(parseFloat(lat)) || isNaN(parseFloat(lng)))
+			inputBad=true;
+		
+		if(lng.indexOf(" ") != -1 || lng.indexOf(" ") != -1)
+			inputBad=true;
+		
+		if(lng.indexOf(",") != -1 || lng.indexOf(",") != -1)
+			inputBad=true;
+
+			
+		if(inputBad==true)
+			alert("Your latitude or longitude is not entered correctly.  Lat and Lon must be decimal degrees and must not contain any spaces or punctuation other than than the decimal point (period).");
+
+		if(ele > 8840 || ele < -396 || isNaN(ele))
+		{
+			inputBad=true;
+			alert("Error - Your elevation must not be greater than 8840 meters or less than -396 meters");
+		}
+	
+		return(!inputBad);
+	
+	}
+
+</script>
+
+<form action="" method="post" onSubmit="return checkLatLon(this);" name="oForm">
+	<table border="0" cellspacing="1" cellpadding="6" align="center" bgcolor="gray"><input type="hidden" name="lang" value="en" border="0">
+		<tr bgcolor="white">
+			<td class="medium" colspan="2" align="center" nowrap><b>Show Predictions for:&nbsp;<select name="satellite" size="1">
+							<option value="ISS" selected >ISS</option>
+<option value="AO-07">AO-07</option>
+<option value="AO-27">AO-27</option>
+<option value="AO-73">AO-73</option>
+<option value="AO-91">AO-91</option>
+<option value="AO-95">AO-95</option>
+<option value="CO-55">CO-55</option>
+<option value="CO-57">CO-57</option>
+<option value="CO-58">CO-58</option>
+<option value="CO-65">CO-65</option>
+<option value="CO-66">CO-66</option>
+<option value="EO-80">EO-80</option>
+<option value="FO-118">FO-118</option>
+<option value="FO-29">FO-29</option>
+<option value="GO-32">GO-32</option>
+<option value="HO-113">HO-113</option>
+<option value="IO-117">IO-117</option>
+<option value="IO-86">IO-86</option>
+<option value="JO-97">JO-97</option>
+<option value="LO-74">LO-74</option>
+<option value="MO-122">MO-122</option>
+<option value="NO-44">NO-44</option>
+<option value="PO-101">PO-101</option>
+<option value="QO-100">QO-100</option>
+<option value="RS-22">RS-22</option>
+<option value="RS-30">RS-30</option>
+<option value="RS-40">RS-40</option>
+<option value="RS-44">RS-44</option>
+<option value="SO-120">SO-120</option>
+<option value="SO-121">SO-121</option>
+<option value="SO-50">SO-50</option>
+<option value="SR-0 DemoSAT">SR-0 DemoSAT</option>
+<option value="TO-108">TO-108</option>
+<option value="UO-11">UO-11</option>
+<option value="XW-2B">XW-2B</option>
+<option value="XW-2C">XW-2C</option>
+<option value="XW-2D">XW-2D</option>
+<option value="AAUSAT2">AAUSAT2</option>
+<option value="AmicalSat">AmicalSat</option>
+<option value="Binar 2">Binar 2</option>
+<option value="Binar 3">Binar 3</option>
+<option value="Binar 4">Binar 4</option>
+<option value="CAS-2T">CAS-2T</option>
+<option value="CAS-4A">CAS-4A</option>
+<option value="CAS-4B">CAS-4B</option>
+<option value="CSIM">CSIM</option>
+<option value="CUTE">CUTE</option>
+<option value="CatSat">CatSat</option>
+<option value="ChubuSat-2">ChubuSat-2</option>
+<option value="ChubuSat-3">ChubuSat-3</option>
+<option value="CosmoGirlSat">CosmoGirlSat</option>
+<option value="CubeBel-2 (EU11S)">CubeBel-2 (EU11S)</option>
+<option value="CubeSX-HSE">CubeSX-HSE</option>
+<option value="CubeSX-Sirius-HSE">CubeSX-Sirius-HSE</option>
+<option value="Curium One">Curium One</option>
+<option value="CySat-1">CySat-1</option>
+<option value="D-SAT">D-SAT</option>
+<option value="DORA">DORA</option>
+<option value="DTUSAT-2">DTUSAT-2</option>
+<option value="Delfi-N3xt">Delfi-N3xt</option>
+<option value="Duchifat 3">Duchifat 3</option>
+<option value="EAGLET 1">EAGLET 1</option>
+<option value="EIRSAT-1">EIRSAT-1</option>
+<option value="ENSO">ENSO</option>
+<option value="ESEO">ESEO</option>
+<option value="FloripaSat 1">FloripaSat 1</option>
+<option value="Foresail-1">Foresail-1</option>
+<option value="GOMX-1">GOMX-1</option>
+<option value="GRBAlpha">GRBAlpha</option>
+<option value="GRBBeta">GRBBeta</option>
+<option value="Horyu-4">Horyu-4</option>
+<option value="IDEASSat">IDEASSat</option>
+<option value="IRIS-A">IRIS-A</option>
+<option value="ISAT">ISAT</option>
+<option value="ITASat 1">ITASat 1</option>
+<option value="KAFASAT">KAFASAT</option>
+<option value="KOSEN 1">KOSEN 1</option>
+<option value="KSU-Cubesat">KSU-Cubesat</option>
+<option value="LEDSAT">LEDSAT</option>
+<option value="LILACSAT-2">LILACSAT-2</option>
+<option value="Lapan A3">Lapan A3</option>
+<option value="MOVE-II">MOVE-II</option>
+<option value="MRC-100">MRC-100</option>
+<option value="MinXSS-2">MinXSS-2</option>
+<option value="NOAA-15">NOAA-15</option>
+<option value="NOAA-18">NOAA-18</option>
+<option value="NOAA-19">NOAA-19</option>
+<option value="Orbicraft-Zorkiy">Orbicraft-Zorkiy</option>
+<option value="PRISM">PRISM</option>
+<option value="Planetum 1">Planetum 1</option>
+<option value="Pratham">Pratham</option>
+<option value="Prox-1">Prox-1</option>
+<option value="RANGE-A">RANGE-A</option>
+<option value="RANGE-B">RANGE-B</option>
+<option value="ROBUSTA-3A">ROBUSTA-3A</option>
+<option value="S-Net A">S-Net A</option>
+<option value="S-Net B">S-Net B</option>
+<option value="S-Net C">S-Net C</option>
+<option value="S-Net D">S-Net D</option>
+<option value="SALSAT">SALSAT</option>
+<option value="SNUGLITE 2">SNUGLITE 2</option>
+<option value="SNUSat 2">SNUSat 2</option>
+<option value="SOMP 2b">SOMP 2b</option>
+<option value="SONATE">SONATE</option>
+<option value="SONATE-2">SONATE-2</option>
+<option value="SRMSAT">SRMSAT</option>
+<option value="SSS-2B">SSS-2B</option>
+<option value="Sakura">Sakura</option>
+<option value="SnugLite">SnugLite</option>
+<option value="Sparrow">Sparrow</option>
+<option value="Suomi 100">Suomi 100</option>
+<option value="TUBIN">TUBIN</option>
+<option value="Taurus 1">Taurus 1</option>
+<option value="TechnoSat">TechnoSat</option>
+<option value="TeikyoSat 4">TeikyoSat 4</option>
+<option value="Ten-Koh">Ten-Koh</option>
+<option value="TianYi 6">TianYi 6</option>
+<option value="UPMSat 2">UPMSat 2</option>
+<option value="UVSQ-SAT">UVSQ-SAT</option>
+<option value="UWE-4">UWE-4</option>
+<option value="UmKA 1 (RS40S)">UmKA 1 (RS40S)</option>
+<option value="VERONIKA">VERONIKA</option>
+<option value="Z-Sat">Z-Sat</option>
+<option value="ZACUBE-1">ZACUBE-1</option>
+						</select> for Next <select name="count" size="1">
+							<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+<option value="32">32</option>
+<option value="33">33</option>
+<option value="34">34</option>
+<option value="35">35</option>
+<option value="36">36</option>
+<option value="37">37</option>
+<option value="38">38</option>
+<option value="39">39</option>
+<option value="40">40</option>
+<option value="41">41</option>
+<option value="42">42</option>
+<option value="43">43</option>
+<option value="44">44</option>
+<option value="45">45</option>
+<option value="46">46</option>
+<option value="47">47</option>
+<option value="48">48</option>
+<option value="49">49</option>
+<option value="50">50</option>
+						</select> Passes</b></td>
+		</tr>
+		<tr>
+				<td class="medium" align="right" nowrap bgcolor="#f0ffff" width="50%"><b>Calculate Latitude and Longitude<br>from Gridsquare:</b></td>
+				<td class="medium" bgcolor="#f0ffff" width="50%"><b><input type="text" name="loc" size=8 value="JO44vv"><input type="button" value="Calculate Position" onClick="loc2deg(this.form)"></b></td>
+			</tr>
+		<tr>
+			<td class="medium" colspan="2" align="center" nowrap bgcolor="#ffffe0"><i><b>Or</b></i></td>
+		</tr>
+		<tr>
+			<td class="medium" align="right" nowrap bgcolor="#ffefd5" width="50%"><b>Enter Decimal Latitude:<font color="#8b0000"></font></b></td>
+			<td class="medium" nowrap bgcolor="#ffefd5" width="50%"><b><input type="text" name="lat" size="10" value="54.8959" border="0">&nbsp;<select name="latdir" size="1">
+							<option value=" ">North</option>
+							<option value="-" >South</option>
+						</select></b></td>
+		</tr>
+		<tr>
+			<td class="medium" align="right" nowrap bgcolor="#ffefd5" width="50%"><b>Enter Decimal Longitude:<font color="#8b0000"></font></b></td>
+			<td class="medium" nowrap bgcolor="#ffefd5" width="50%"><b><input type="text" name="lng" size="10" value="9.7917" border="0">&nbsp;
+<select name="longdir" size="1">
+							<option value=" ">West</option>
+							<option value="-" selected>East</option>
+						</select></b></td>
+		</tr>
+		<tr>
+			<td class="medium" align="right" nowrap bgcolor="#f5f5f5" width="50%"><b>Elevation in meters AMSL:</b></td>
+			<td class="medium" nowrap bgcolor="#f5f5f5" width="50%"><b><input type="text" name="ele" size="6" value="0" border="0"></b></td>
+		</tr>
+		<tr bgcolor="white">
+			<td class="medium" colspan="2" align="center" nowrap><b><input type="submit" name="doPredict" value=" Predict " border="0"><br>
+						
+				&nbsp;<br>
+						<input type="checkbox" name="saveme" value="1" " border="0">Save my location for later use</b>
+
+</td>
+		</tr>
+	</table>
+	<p><hr></p><h5 align="center">For the best in full featured tracking software visit <a href=https://www.amsat.org/shop/>The AMSAT Store</a></h5><hr><p align="center" class="small">Based on the Predict engine, courtesy of John Magliacane, KD2BD<br>		 2024 Oct 28 00:18:03 UTC </p>
+</form><!-- do not edit anything beyond this line --></div><br></td>
+                        </tr>
+                </table>
+
+<table class="box" width="800" border="1" cellspacing="0" cellpadding="0">
+        <tr bgcolor="#dcdcdc" height="24">
+                <td nowrap class="update" height="24">&nbsp;&nbsp;Copyright&copy;The Radio Amateur Satellite Corporation 2004
+                ,2021 - All Rights Reserved<br>
+                <a href="https://www.amsat.org/amsat-new/bugform.php" target="_blank">&nbsp;&nbsp;Report a bug on this page</a></td>
+                <td align="right" nowrap class="update" height="24">
+                                                </td>        
+           </tr>
+
+        </table>
+        
+     </div>
+                
+
+</body>
+
+</html>
