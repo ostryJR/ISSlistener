@@ -1,3 +1,7 @@
-This is project to automatically try to hear voice and SSTV from ISS(International Space Station)
+This is a project to automatically try to hear voice and SSTV from the ISS(International Space Station)
 
-!!!This is very early stage of the project
+It uses(or will be using most probably) sources like:
+- Fly-over date and time from: [https://www.amsat.org/track/]
+- Radio input from: [http://websdr.org/]
+
+!!!This is a very early stage of the project
