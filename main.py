@@ -16,11 +16,11 @@ def getFlyOverData(location, targetDate):
         "lang": "en",
         "satellite": "ISS",
         "count": 30,
-        "loc": location.square,
-        "lat": "",#abs(location.latitude),
-        "latdir": "",#"+" if location.latitude > 0 else "-",
-        "lng": "",#abs(location.longitude),
-        "longdir": "",#"+" if location.longitude > 0 else "-",
+        "loc": "",
+        "lat": abs(location.latitude),
+        "latdir": "+" if location.latitude > 0 else "-",
+        "lng": abs(location.longitude),
+        "longdir": "+" if location.longitude > 0 else "-",
         "ele": 0,
         "doPredict": "Predict"
     }
@@ -85,20 +85,20 @@ def getFlyOverData(location, targetDate):
             else:
                 print("\x1b[6m",ele.date, ele.starttime, ele.duration, ele.endtime,"\x1b[0m")
         return targetDayFlyovers
-            
+
 
 
 locations = [
-    fn.Location("Bordeaux", "France", "http://ham.websdrbordeaux.fr:8000/index3.html","IN94RP"),
-    fn.Location("Sparta", "Greece", "http://sv3gcb.ddns.net:8905/","KM16FX"),
-    fn.Location("Breaza", "Romania", "http://websdr.yo3ggx.ro:8765/", "KN25te"),
-    fn.Location("IJsselstein", "Netherlands", "http://websdr.pi1utr.hamnet.nl:8901/", "JO22MA"),
-    fn.Location("Wessex", "UK", "http://wessex.hopto.org:8070/", "IO80QR"),
-    fn.Location("Pardinho", "Brazil", "http://appr.org.br:8905/index_2.html","GG56TV"),
-    fn.Location("Salt Lake City", "USA", "http://slc2meters.sdrutah.org:8901/?tune=145900usb","DN30ws"),
-    fn.Location("Gatesville", "USA", "http://sdr.kf5jmd.com:8901/", "EM11DK"),
-    fn.Location("Washington DC", "USA", "http://websdr.us:8902/", "FM18KS"),
-    fn.Location("Honolulu", "Hawaii", "http://heatherf.duckdns.org:8902/", "BL11BH")
+    fn.Location("Bordeaux", "France", "http://ham.websdrbordeaux.fr:8000/index3.html",44.84175, -0.56681, "IN94RP"),
+    fn.Location("Sparta", "Greece", "http://sv3gcb.ddns.net:8905/",36.98038, 22.44201,"KM16FX"),
+    fn.Location("Breaza", "Romania", "http://websdr.yo3ggx.ro:8765/",45.1875, 25.625, "KN25te"),
+    fn.Location("IJsselstein", "Netherlands", "http://websdr.pi1utr.hamnet.nl:8901/",52.02366, 5.03883, "JO22MA"),
+    fn.Location("Wessex", "UK", "http://wessex.hopto.org:8070/",50.729,-2.625, "IO80QR"),
+    fn.Location("Pardinho", "Brazil", "http://appr.org.br:8905/index_2.html",-23.104,-48.375,"GG56TV"),
+    fn.Location("Salt Lake City", "USA", "http://slc2meters.sdrutah.org:8901/?tune=145900usb",40.771,-112.125,"DN30WS"),
+    fn.Location("Gatesville", "USA", "http://sdr.kf5jmd.com:8901/",31.438, -97.708, "EM11DK"),
+    fn.Location("Washington DC", "USA", "http://websdr.us:8902/",38.771,-77.125, "FM18KS"),
+    fn.Location("Honolulu", "Hawaii", "http://heatherf.duckdns.org:8902/",21.313,-157.875, "BL11BH")
 ]
 
 for location in locations:
