@@ -8,6 +8,11 @@ import datetime as dt
 import config
 import functions as fn
 
+import matplotlib.patches as mpatches
+import matplotlib.pyplot as plt
+import seaborn as sns
+import geopandas as gpd
+import geodatasets
 
 #Get position&time predictions of the ISS
 #Time is in UTC
@@ -101,5 +106,26 @@ locations = [
     fn.Location("Honolulu", "Hawaii", "http://heatherf.duckdns.org:8902/",21.313,-157.875, "BL11BH")
 ]
 
-for location in locations:
-    getFlyOverData(location, dt.date.today() + dt.timedelta(days=0))
+# for location in locations:
+#     getFlyOverData(location, dt.date.today() + dt.timedelta(days=0))
+    
+    
+
+
+
+#prepare data for plotting
+lat, lon = [], []
+for loc in locations:
+    lat.append(loc.latitude)
+    lon.append(loc.longitude)
+    
+
+#plotting the map
+worldMap = gpd.read_file(geodatasets.get_path("naturalearth.land")).plot(color="lightgray",edgecolor="black",alpha=0.5)
+
+gdf = gpd.GeoDataFrame(geometry=gpd.points_from_xy(lat, lon), crs="EPSG:4326")
+gdf.plot(ax = worldMap,color="red")
+
+# set the plot title
+plt.title("Map of radiostations")
+plt.show()

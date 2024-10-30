@@ -20,7 +20,7 @@ class Location:
     longitude = None
     square = None
     
-    def __init__(self, name, country, webSDRurl, latitude, longitude, square):
+    def __init__(self, name, country, webSDRurl, longitude, latitude, square):
         self.name = name
         self.country = country
         self.webSDRurl = webSDRurl

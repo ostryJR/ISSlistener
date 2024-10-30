@@ -27,7 +27,7 @@
 <table class="box" width="800" height="130" border="1" cellspacing="0" cellpadding="4" >
 
 		<tr onmouseover="into(this); " onclick="document.location.href='main_page_redirect.php'"
-										<td class="bottomborder" align="right" valign="bottom" background="https://www.amsat.org/amsat-new/fahnen/9.jpg"><font color="white"><b>
+										<td class="bottomborder" align="right" valign="bottom" background="https://www.amsat.org/amsat-new/fahnen/7.jpg"><font color="white"><b>
 
 
 850 Sligo Ave. Suite 600<br>
@@ -41,7 +41,7 @@ Silver Spring, MD 20910<br>1-888-322-6728
 <tr>
 
 <td valign="bottom" bgcolor="floralwhite" class="titlestyle">
-https://www.amsat.org/amsat-new/fahnen/9.jpg&nbsp;AMSAT Online Satellite Pass Predictions</td>
+https://www.amsat.org/amsat-new/fahnen/7.jpg&nbsp;AMSAT Online Satellite Pass Predictions</td>
 
 						</tr>
 						</table>
