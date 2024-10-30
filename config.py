@@ -1,4 +1,4 @@
 #Config for ISS fly-over prediction
-PosPredURL = "https://www.amsat.org/tracka/"
+PosPredURL = "https://www.amsat.org/track/"
 
 

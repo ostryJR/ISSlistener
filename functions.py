@@ -13,19 +13,17 @@ class FlyoverFrame:
 
 
 class Location:
-    latitude = None
-    longitude = None
     name = None
     country = None
     webSDRurl = None
+    #latitude = None
+    #longitude = None
+    square = None
     
-    def __init__(self, latitude, longitude, name, country, webSDRurl):
-        self.latitude = latitude
-        self.longitude = longitude
+    def __init__(self, name, country, webSDRurl, square):# latitude, longitude, square):
         self.name = name
         self.country = country
         self.webSDRurl = webSDRurl
-
-class blablabla:
-    def __init__(self):
-        pass
+        #self.latitude = latitude
+        #self.longitude = longitude
+        self.square = square
